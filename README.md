@@ -1,4 +1,4 @@
-# Downloads-Cleaner
+# <img width="48" alt="AppIcon Large" src="https://github.com/user-attachments/assets/402d8e4d-2f1d-4933-a723-e3775f132a1f" /> Downloads-Cleaner
 Clean up your downloads folder on mac!
 
 <img width="532" alt="SCR-20250525-mcga" src="https://github.com/user-attachments/assets/662794e2-b9f0-4474-9663-5511e94108f0" />
